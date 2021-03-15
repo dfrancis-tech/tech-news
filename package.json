@@ -1,5 +1,5 @@
 {
-  "name": "hacker-news-clone",
+  "name": "tech-news",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -7,6 +7,10 @@
     "test": "jest",
     "seeds": "node seeds/index.js",
     "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosefrancis-tech/tech-news.git"
   },
   "author": "",
   "license": "ISC",
