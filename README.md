@@ -9,6 +9,7 @@ Built With
 * ORM - Sequelize
 * DBMS - MySQL
 * Heroku
+* Hroku JawsDB
 * TDD - jest
 * Packages
     * bcrypt
